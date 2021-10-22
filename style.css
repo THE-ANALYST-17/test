@@ -1,0 +1,74 @@
+*{
+    margin:0;
+    padding:0
+}
+body{
+    background-color: black;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+}
+#main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid black;
+    width:700px;
+    height:400px;
+    background-color: rgb(184, 196, 17);
+}
+#inp{
+    margin-bottom:39px;
+}
+#btn1{
+    width:70px;
+    height:30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(199, 162, 169);
+    
+}
+#btn2{
+    width:70px;
+    height:30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(199, 162, 169);
+    
+}
+#btn3{
+    width:70px;
+    height:30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(199, 162, 169);
+    
+}
+#btn4{
+    width:70px;
+    height:30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(199, 162, 169);
+    
+}
+#data1{
+    width:250px;
+    height:40px;
+    border:2px solid grey;
+    border-radius: 8px;
+    
+}
+#data2{
+    width:250px;
+    height:40px;
+    border:2px solid grey;
+    border-radius: 8px;
+}
+.button{
+    margin-top: 60px;
+}
